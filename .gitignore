@@ -34,3 +34,6 @@ yarn-error.log*
 
 # 第三方版权图，勿入库
 /public/script-themes/horror-cover.png
+
+# 本地保留的版权素材，勿入库
+/.local-assets/
